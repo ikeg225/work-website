@@ -1,24 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d090411.css",
-    "main.js": "/static/js/main.2d206a96.js",
-    "static/js/787.4a85e898.chunk.js": "/static/js/787.4a85e898.chunk.js",
-    "static/media/me.jpg": "/static/media/me.b5f10b08fe7a31f959e5.jpg",
+    "main.css": "/static/css/main.b6f05af5.css",
+    "main.js": "/static/js/main.9045b8aa.js",
+    "static/media/ethanikegami.jpg": "/static/media/ethanikegami.b5f10b08fe7a31f959e5.jpg",
     "static/media/roboto-slab.bold.ttf": "/static/media/roboto-slab.bold.b4a6cff80bc429d3416d.ttf",
     "static/media/roboto-slab.regular.ttf": "/static/media/roboto-slab.regular.7ce86de3a11228c75d5e.ttf",
     "static/media/topography.svg": "/static/media/topography.c38732356a04a5f9e799.svg",
-    "static/media/wfLogo.png": "/static/media/wfLogo.134a9265b16e83de8c56.png",
+    "static/media/wellfargo.jpg": "/static/media/wellfargo.2c1999bf87237d7fe0cc.jpg",
     "static/media/github.png": "/static/media/github.5eab40a02fe444730a11.png",
-    "static/media/cvLogo.png": "/static/media/cvLogo.82426135b39f0f4d5da5.png",
-    "static/media/dcLogo.webp": "/static/media/dcLogo.0e69744774359bb447e1.webp",
+    "static/media/corevestfinance.jpg": "/static/media/corevestfinance.d48987840a0604d44f7a.jpg",
+    "static/media/dailycal.jpg": "/static/media/dailycal.d880cbc01cd2c6b8399e.jpg",
     "static/media/linkedin.webp": "/static/media/linkedin.96a7a6d063b2604f6c82.webp",
     "index.html": "/index.html",
-    "main.0d090411.css.map": "/static/css/main.0d090411.css.map",
-    "main.2d206a96.js.map": "/static/js/main.2d206a96.js.map",
-    "787.4a85e898.chunk.js.map": "/static/js/787.4a85e898.chunk.js.map"
+    "main.b6f05af5.css.map": "/static/css/main.b6f05af5.css.map",
+    "main.9045b8aa.js.map": "/static/js/main.9045b8aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d090411.css",
-    "static/js/main.2d206a96.js"
+    "static/css/main.b6f05af5.css",
+    "static/js/main.9045b8aa.js"
   ]
 }
