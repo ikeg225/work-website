@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.6566bd08.css",
-    "main.js": "/static/js/main.4bad2f33.js",
-    "static/media/ethanikegami.jpg?webp": "/static/media/ethanikegami.b5f10b08fe7a31f959e5.jpg",
+    "main.css": "/static/css/main.f22dfdd0.css",
+    "main.js": "/static/js/main.26c0b44e.js",
+    "static/media/ethanikegami.jpg": "/static/media/ethanikegami.b5f10b08fe7a31f959e5.jpg",
     "static/media/roboto-slab.bold.ttf": "/static/media/roboto-slab.bold.b4a6cff80bc429d3416d.ttf",
     "static/media/roboto-slab.regular.ttf": "/static/media/roboto-slab.regular.7ce86de3a11228c75d5e.ttf",
     "static/media/Ethan-Ikegami-Resume.pdf": "/static/media/Ethan-Ikegami-Resume.4a62844027d5baaf9433.pdf",
     "static/media/topography.svg": "/static/media/topography.c38732356a04a5f9e799.svg",
     "static/media/wellfargo.jpg": "/static/media/wellfargo.2c1999bf87237d7fe0cc.jpg",
-    "static/media/github.png": "/static/media/github.5eab40a02fe444730a11.png",
-    "static/media/corevestfinance.jpg?webp": "/static/media/corevestfinance.d48987840a0604d44f7a.jpg",
-    "static/media/dailycal.jpg?webp": "/static/media/dailycal.d880cbc01cd2c6b8399e.jpg",
-    "static/media/linkedin.webp": "/static/media/linkedin.96a7a6d063b2604f6c82.webp",
+    "static/media/corevestfinance.jpg": "/static/media/corevestfinance.d48987840a0604d44f7a.jpg",
+    "static/media/dailycal.jpg": "/static/media/dailycal.d880cbc01cd2c6b8399e.jpg",
+    "static/media/github.webp": "/static/media/github.5be6112ee0e861c81f27.webp",
+    "static/media/linkedin.webp": "/static/media/linkedin.0671d7e5868d79521147.webp",
     "index.html": "/index.html",
-    "main.6566bd08.css.map": "/static/css/main.6566bd08.css.map",
-    "main.4bad2f33.js.map": "/static/js/main.4bad2f33.js.map"
+    "main.f22dfdd0.css.map": "/static/css/main.f22dfdd0.css.map",
+    "main.26c0b44e.js.map": "/static/js/main.26c0b44e.js.map"
   },
   "entrypoints": [
-    "static/css/main.6566bd08.css",
-    "static/js/main.4bad2f33.js"
+    "static/css/main.f22dfdd0.css",
+    "static/js/main.26c0b44e.js"
   ]
 }
