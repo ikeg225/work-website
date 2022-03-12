@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.f22dfdd0.css",
-    "main.js": "/static/js/main.26c0b44e.js",
+    "main.css": "/static/css/main.574af79c.css",
+    "main.js": "/static/js/main.13d9d99d.js",
     "static/media/ethanikegami.jpg": "/static/media/ethanikegami.b5f10b08fe7a31f959e5.jpg",
     "static/media/roboto-slab.bold.ttf": "/static/media/roboto-slab.bold.b4a6cff80bc429d3416d.ttf",
     "static/media/roboto-slab.regular.ttf": "/static/media/roboto-slab.regular.7ce86de3a11228c75d5e.ttf",
-    "static/media/Ethan-Ikegami-Resume.pdf": "/static/media/Ethan-Ikegami-Resume.4a62844027d5baaf9433.pdf",
+    "static/media/Ethan-Ikegami-Resume.pdf": "/static/media/Ethan-Ikegami-Resume.dffee6efece6ebeb2b2c.pdf",
     "static/media/topography.svg": "/static/media/topography.c38732356a04a5f9e799.svg",
     "static/media/wellfargo.jpg": "/static/media/wellfargo.2c1999bf87237d7fe0cc.jpg",
     "static/media/corevestfinance.jpg": "/static/media/corevestfinance.d48987840a0604d44f7a.jpg",
@@ -13,11 +13,11 @@
     "static/media/github.webp": "/static/media/github.5be6112ee0e861c81f27.webp",
     "static/media/linkedin.webp": "/static/media/linkedin.0671d7e5868d79521147.webp",
     "index.html": "/index.html",
-    "main.f22dfdd0.css.map": "/static/css/main.f22dfdd0.css.map",
-    "main.26c0b44e.js.map": "/static/js/main.26c0b44e.js.map"
+    "main.574af79c.css.map": "/static/css/main.574af79c.css.map",
+    "main.13d9d99d.js.map": "/static/js/main.13d9d99d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f22dfdd0.css",
-    "static/js/main.26c0b44e.js"
+    "static/css/main.574af79c.css",
+    "static/js/main.13d9d99d.js"
   ]
 }
